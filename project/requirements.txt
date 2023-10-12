@@ -1,0 +1,10 @@
+pip install csv
+pip install datetime
+pip install math
+pip install pandas
+pip install numpy
+pip install sys
+pip install PIL
+pip install argparse
+pip install os
+pip install matplotlib
